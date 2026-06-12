@@ -1,0 +1,12 @@
+langchain
+langchain-core
+python-dotenv
+langchain-mistralai
+langchain-community
+tavily-python
+fastapi
+uvicorn
+psycopg2-binary
+SQLAlchemy
+requests
+greenlet

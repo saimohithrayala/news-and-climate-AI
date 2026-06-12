@@ -1,0 +1,7 @@
+# Ignore dependencies
+node_modules/
+__pycache__/
+.venv/
+.env
+dist/
+.DS_Store
